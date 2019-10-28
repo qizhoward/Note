@@ -1,5 +1,11 @@
-# Notepad
+# Note
 记事本
+
+Notepad                                                               </br>
+
+NoteBook                                                              </br>
+Notebook                                                              </br>
+
 
 日常记事                                                              </br>
 2019.10.20 20:56PM                                                   </br>
