@@ -141,9 +141,8 @@ write everyday
 ----------
 
     俄罗斯威化碎 加 日本米饭寿司卷 加 牛奶 才是完美的下午茶
-
-　　二音阶do
-    delete
+    二音阶do 
+    delete 
     scrlk
 
 ----------
